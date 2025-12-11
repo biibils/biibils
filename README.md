@@ -9,9 +9,10 @@ A lifelong learner, educator, and builder who loves turning ideas into useful di
 - 📚 Mentoring students in science, philosophy, and Islam
 
 ## 🌱 Currently Learning
-- Advanced AI & software engineering
+- Advanced AI & Data Science
 - Software Engineering
 - Deepening math & research skills
+- Islamic Thought and Philosophy
 
 
 ## 🌐 Socials:
