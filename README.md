@@ -11,6 +11,8 @@ I am a data scientist, software developer, and content creator passionate about 
 
 Open to collaborations and discussions! 🚀
 billy.sutawijaya.04@gmail.com
+or check my personal Website on
+https://portfolio-biibils.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biibils.id) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@billy.sutawijaya.04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:billy.sutawijaya.04@gmail.com) 
