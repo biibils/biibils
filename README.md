@@ -1,13 +1,13 @@
-# 💫 About Me:
-💡 Data Science | Web Development | Educator | Islamic Growth Mindset
+# About Me:
+💡 Software Development | Data Science | Math Coaching | Islamic Growth Mindset
 
-I am a data scientist, web developer, and content creator passionate about technology-driven education and Islamic values. With a background in mathematics, machine learning, and web development, I strive to bridge knowledge, technology, and faith in every project I build.
+I am a data scientist, software developer, and content creator passionate about technology-driven education and Islamic values. With a background in mathematics, machine learning, and web development, I strive to bridge knowledge, technology, and faith in every project I build.
 
 ⚡ Skills & Expertise:
-- ✅ Data Science & Machine Learning
-- ✅ Web Development (Next.js, Tailwind CSS)
-- ✅ Content Creation & Islamic Growth Mindset
-- ✅ Math Education & Curriculum Development
+✅ Data Science & Machine Learning
+✅ Software Engineering (Next.js, Tailwind CSS, .NET)
+✅ Content Creation & Islamic Growth Mindset
+✅ Math Education & Curriculum Development
 
 Open to collaborations and discussions! 🚀
 billy.sutawijaya.04@gmail.com
